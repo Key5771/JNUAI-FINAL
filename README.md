@@ -3,6 +3,7 @@
 ## FIFA 19 complet player dataset을 활용하여 선수 몸값 예측
 - kaggle에서 제공하는 게임 FIFA 19 complet player dataset을 활용하여 선수의 특성을 활용해서 선수의 몸값을 예측합니다.
 - 수업시간에 진행했던 PretictionUtil 라이브러리를 활용하여 진행합니다.
+- 데이터 출처 : https://www.kaggle.com/karangadiya/fifa19
 
 
 ## 데이터 불러오기
