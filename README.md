@@ -97,7 +97,7 @@ LinearRegression 방법으로 진행한 결과입니다. 그렇게 높아보이�
 
 ### 2. KNeighborsRegressor
 ```python
-gildong.run_linear_regress(['Age', 'Overall', 'Potential'], 'Value')
+gildong.run_kneighbor_regress(['Age', 'Overall', 'Potential'], 'Value')
 ```
 
 ![kneighbors](./images/kneighbors.png)
